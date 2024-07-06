@@ -125,12 +125,16 @@ nav {
   margin-bottom: none;
 }
 .social-links{
-    height: 50px;
-    padding:10px;
+    height: 60px;
+    padding:15px;
 }
 .footer{
   font-size: normal;
   font-weight: bold;
   margin: 0;
   color: #272142;
+}
+.dew{
+  text-align: center;
+  padding:20px;
 }
